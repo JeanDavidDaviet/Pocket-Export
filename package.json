@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-html-parser": "^5.3.2",
+    "pocket-api": "^1.0.1"
+  }
+}
